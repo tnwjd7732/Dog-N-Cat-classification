@@ -39,3 +39,4 @@ c/keras/data/prediction_set/1.jpg
             /learning/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5 //transfer training에 사용되는 모델
 
 ```
+참고코드: https://github.com/nhntran/ML-TensorFlow-ComputerVisionProblems/blob/b2aa5f2f16ba6e39b8874fa93b844c3c0833a284/TensorFlowCodes/TF_Dogs_Cats_Transfer_Learning.py
