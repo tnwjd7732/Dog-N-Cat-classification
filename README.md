@@ -1,4 +1,4 @@
-# cat-N-dog-classification
+# Dog-N-Cat-classification
 
 ## 사용한 데이터
 
